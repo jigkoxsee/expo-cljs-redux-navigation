@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Mobile App",
+    "description": "Mobile app",
+    "slug": "mobileapp",
+    "version": "1.0.1",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ee3f22",
+    "privacy": "public",
+    "androidShowExponentNotificationInShellApp": false,
+    "icon": ".png",
+    "splash": {
+      "image": "./assets/images/splash-sq-512.png",
+      "backgroundColor": "#ee3f22",
+      "resizeMode": "contain"
+    }
+  }
+}
